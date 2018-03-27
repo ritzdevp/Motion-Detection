@@ -19,7 +19,7 @@
 
 ### Initial Frame
 
-![alt text](https://github.com/ritzdevp/Motion-Detection/blob/master/motion/handNOMOTION.jpg)
+![alt text](https://github.com/ritzdevp/Motion-Detection/blob/master/handNOMOTION.jpg)
 
 ### Movement Detected
 
