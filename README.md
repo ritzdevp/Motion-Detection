@@ -11,4 +11,32 @@
 
 ![alt text](https://github.com/ritzdevp/Motion-Detection/blob/master/motion.jpg)
 
-#### To-Do : Will upload code after better performance
+# Improvisations:
+
+### Here, the first frame is initialised as reference frame. The BGR/Grayscale difference between two frames will account for motion which is thresholded and subsequently the region of movement is marked.
+
+## Hand Movement
+
+### Initial Frame
+
+![alt text](https://github.com/ritzdevp/Motion-Detection/blob/master/motion/handNOMOTION.jpg)
+
+### Movement Detected
+
+![alt text](https://github.com/ritzdevp/Motion-Detection/blob/master/handMOTION.jpg)
+
+
+## Car Theft / Surveillance
+
+### Initial Frame
+
+![alt text](https://github.com/ritzdevp/Motion-Detection/blob/master/carNOMOTION.jpg)
+
+### Movement Detected 
+
+![alt text](https://github.com/ritzdevp/Motion-Detection/blob/master/carMOTION.jpg)
+
+
+![alt text](https://github.com/ritzdevp/Motion-Detection/blob/master/cartheftscreenshot.jpg)
+
+
